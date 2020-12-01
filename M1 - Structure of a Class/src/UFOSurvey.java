@@ -3,5 +3,9 @@ public class UFOSurvey {
         System.out.println("Test Test");
     }
 
+    public void doSomethingElse() {
+        System.out.println("Test 2");
 
+
+    }
 }
