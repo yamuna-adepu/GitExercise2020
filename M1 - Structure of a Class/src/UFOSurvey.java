@@ -8,4 +8,8 @@ public class UFOSurvey {
 
 
     }
+
+    public void doSomethingElse3() {
+        System.out.println("Test 3");
+    }
 }
